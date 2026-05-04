@@ -1,5 +1,5 @@
 First create a new env using
-    conda create -p env=={ur_py_version}
+    conda create -p env=={ur_py_version} -y
 
 then activate the env folder by using
     conda activate venv/
